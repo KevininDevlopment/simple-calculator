@@ -664,23 +664,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\timet\\.nuget\\packages\\": {},
+    "C:\\Users\\Timet\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\timet\\OneDrive\\Desktop\\SimpleCalculator\\SimpleCalculator\\SimpleCalculator.csproj",
+      "projectUniqueName": "C:\\Users\\Timet\\OneDrive\\NEWOS\\rasmussenprojects\\C#\\SimpleCalculator\\SimpleCalculator\\SimpleCalculator.csproj",
       "projectName": "SimpleCalculator",
-      "projectPath": "C:\\Users\\timet\\OneDrive\\Desktop\\SimpleCalculator\\SimpleCalculator\\SimpleCalculator.csproj",
-      "packagesPath": "C:\\Users\\timet\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\timet\\OneDrive\\Desktop\\SimpleCalculator\\SimpleCalculator\\obj\\",
+      "projectPath": "C:\\Users\\Timet\\OneDrive\\NEWOS\\rasmussenprojects\\C#\\SimpleCalculator\\SimpleCalculator\\SimpleCalculator.csproj",
+      "packagesPath": "C:\\Users\\Timet\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Timet\\OneDrive\\NEWOS\\rasmussenprojects\\C#\\SimpleCalculator\\SimpleCalculator\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\timet\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Timet\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
